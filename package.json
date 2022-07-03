@@ -1,6 +1,6 @@
 {
-  "name": "restful-api-without-db",
-  "version": "1.0.0",
+  "name": "basic-restful-api",
+  "version": "1.0.1",
   "description": "Example of RESTful API for a Blog without a DB using Node.js",
   "main": "server.js",
   "scripts": {
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rozzilla/restful-api-without-db.git"
+    "url": "git+https://github.com/smondal229/basic-restful-api.git"
   },
-  "author": "Roberto Bianchi (rozzilla)",
+  "author": "Suvodip Mondal (smondal229)",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/rozzilla/restful-api-without-db/issues"
+    "url": "https://github.com/smondal229/basic-restful-api/issues"
   },
-  "homepage": "https://github.com/rozzilla/restful-api-without-db#readme",
+  "homepage": "https://github.com/smondal229/basic-restful-api#readme",
   "dependencies": {
     "body-parser": "^1.19.0",
     "errorhandler": "^1.5.1",
